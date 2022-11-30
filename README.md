@@ -1,6 +1,8 @@
 # Analyzing Seattle Airbnb Data
 ![alt text](http://u.realgeeks.media/stevekennedy/old_wp/_wp-content_uploads_2017_01_AirbnbSeattle470x246.jpg)
 
+**Caveat before reading further**: The full analysis may be found [here](https://nbviewer.org/github/KRM444/Seattle_AirBnb/blob/main/Seattle%20AirBnb%20Analysis.ipynb) because GitHub is not trusting the file to render the folium plots.
+
 In this journey we will *briefly* analyze [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle) while adhering to the **Cr**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining (*CRISP-DM*) below:
 
 ![CRISP-DM Process](http://optimumsportsperformance.com/blog/wp-content/uploads/2019/12/Screen-Shot-2019-12-14-at-10.12.35-PM-768x423.png)

@@ -7,7 +7,7 @@ In this journey we will *briefly* analyze [Seattle Airbnb Open Data](https://www
 
 ![CRISP-DM Process](http://optimumsportsperformance.com/blog/wp-content/uploads/2019/12/Screen-Shot-2019-12-14-at-10.12.35-PM-768x423.png)
 
-*- Image provided courtesy of [Patrick Ward, Ph.D.](http://optimumsportsperformance.com/blog/data-analysis-template-in-r-markdown-jupyter-notebook/).*
+*- Image provided courtesy of [Patrick Ward, Ph.D.](http://optimumsportsperformance.com/blog/data-analysis-template-in-r-markdown-jupyter-notebook/)*
 
 
 # 👨‍💼🤝👨‍💼 Business Understanding
@@ -16,9 +16,9 @@ Since its inception in August 2008, Airbnb has connected guests and hosts by off
 By analyzing this data, one may deduce essential business insights such as the following: seasonality tendencies, which areas are in low/high demand, which feature(s) of a rental unit appear to impact price most, understanding client (host and guest) behavior through ratings or textual reviews, and many more.
 
 To that extent, this project will answer the following three useful, but common, business questions:
-- What are some seasonality trends that are confirmed by the data?  *(Clean the data and plot relatable features with respect to time)*
-- Where are the most popular areas in Seattle by volume?  *(Plot area rental frequency)*
-- Which features tend to have the most impact on price?  *(Create a simple Machine Learning model and interpret its accuracy/usefulness)*
+- What are some seasonality trends that are confirmed by the data? *(Clean the data and plot relatable features with respect to time)*
+- Where are the most expensive neighborhoods to rent in Seattle by average price? *(Plot area rental frequency + neighborhood bar chart with µ price)*
+- Which features tend to have the most impact on price? *(Create a simple Machine Learning model and interpret its accuracy/usefulness)*
 
 # 🤔👨‍💻 Data Understanding
 The [dataset(s)](https://www.kaggle.com/datasets/airbnb/seattle) contain Seattle Airbnb data for one year (01/2016 - 01/2017). Altogether, there are 3 datasets: 

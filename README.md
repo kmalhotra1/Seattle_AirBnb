@@ -99,3 +99,8 @@ Before we begin, it would be helpful to gain a macro perspective on the followin
 
 # 🚀 Deployment
 - Publish to GitHub & Medium.
+
+# Additional 
+#### Images for EDA (certain outlier removed)
+![image](https://user-images.githubusercontent.com/35614192/207990244-b1940aba-905b-44f3-9fb6-9aaaceb0214d.png)
+![image](https://user-images.githubusercontent.com/35614192/207990312-e86ef075-d94d-4086-8922-fec013239247.png)
